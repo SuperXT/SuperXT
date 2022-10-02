@@ -1,5 +1,5 @@
-老麻豆01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
-老麻豆02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
-老麻豆04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
-老麻豆05,https://video2.51daao.com/btt1/2021/07/20210708/638JxHDT/index.m3u8
-老麻豆06,https://video2.51daao.com/btt1/2021/07/20210708/p0Rc4r0U/index.m3u8
+老麻豆01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8?skipl=1
+老麻豆02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8?skipl=1
+老麻豆04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8?skipl=1
+老麻豆05,https://video2.51daao.com/btt1/2021/07/20210708/638JxHDT/index.m3u8?skipl=1
+老麻豆06,https://video2.51daao.com/btt1/2021/07/20210708/p0Rc4r0U/index.m3u8?skipl=1
